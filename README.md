@@ -13,4 +13,7 @@ __Below is a list of variables that were of importance:__
 + acquired
 + notes
 
+__Link to analysis webpage:__
+
+https://omkarsagar.github.io/nba-injuries-eda/
 
