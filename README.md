@@ -1,1 +1,1 @@
-# nba-injuries-eda
+# NBA Injuries EDA
